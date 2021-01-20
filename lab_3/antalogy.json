@@ -1,0 +1,594 @@
+{
+    "root": {
+        "name": "Alcohol",
+        "node": [
+            {
+                "name": "Strong",
+                "node": [
+                    {
+                        "name": "Rum",
+                        "node": [
+                            {
+                                "name": "Dark",
+                                "node": [
+                                    {
+                                        "name": "Ron Barcelo, Anejo, 0.7 л",
+                                        "volume": 0.7,
+                                        "price": 1200,
+                                        "alc": 40,
+                                        "age": 3,
+                                        "country": "Dominicana",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Bacardi Carta Negra",
+                                        "volume": 0.7,
+                                        "price": 1260,
+                                        "alc": 40,
+                                        "age": 4,
+                                        "country": "USA",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Captain Morgan Black Spiced",
+                                        "volume": 0.7,
+                                        "price": 1260,
+                                        "alc": 40,
+                                        "age": 3,
+                                        "country": "UK",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Botran 12 Anejo",
+                                        "volume": 0.7,
+                                        "price": 3400,
+                                        "alc": 40,
+                                        "age": 12,
+                                        "country": "Guatemala",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gold",
+                                "node": [
+                                    {
+                                        "name": "Ron Barcelo Gran Anejo",
+                                        "volume": 0.7,
+                                        "price": 1500,
+                                        "alc": 37,
+                                        "age": 5,
+                                        "country": "Dominicana",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Bacardi OakHeart",
+                                        "volume": 0.7,
+                                        "price": 1250,
+                                        "alc": 35,
+                                        "age": 1,
+                                        "country": "USA",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Captain Morgan Spiced Gold",
+                                        "volume": 0.7,
+                                        "price": 1400,
+                                        "alc": 35,
+                                        "age": 2,
+                                        "country": "UK",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Bacardi Reserva 8 Anos",
+                                        "volume": 0.7,
+                                        "price": 2500,
+                                        "alc": 40,
+                                        "age": 8,
+                                        "country": "USA",
+                                        "availability": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vodka",
+                        "node": [
+                            {
+                                "name": "Plum",
+                                "node": [
+                                    {
+                                        "name": "Кизлярка Сливовая",
+                                        "volume": 0.5,
+                                        "price": 550,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Арцах Сливовый",
+                                        "volume": 0.75,
+                                        "price": 2250,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Armenia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "R. Jelinek, Plum Vodka",
+                                        "volume": 0.5,
+                                        "price": 1100,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Czech",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Анасеули Сливовая",
+                                        "volume": 0.5,
+                                        "price": 1300,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Georgia",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apple",
+                                "node": [
+                                    {
+                                        "name": "Троекуровка Яблочная",
+                                        "volume": 0.5,
+                                        "price": 550,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Кизлярка Яблочная",
+                                        "volume": 0.5,
+                                        "price": 600,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Самогаръ",
+                                        "volume": 0.5,
+                                        "price": 460,
+                                        "alc": 38,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Белая Березка",
+                                        "volume": 0.5,
+                                        "price": 660,
+                                        "alc": 38,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anise",
+                                "node": [
+                                    {
+                                        "name": "Kalashnikov",
+                                        "volume": 0.5,
+                                        "price": 320,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Isidoros Arvanitis Ouzo Plomari",
+                                        "volume": 0.5,
+                                        "price": 870,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Greece",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Алтай",
+                                        "volume": 0.5,
+                                        "price": 500,
+                                        "alc": 40,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Ouzo Romios",
+                                        "volume": 0.7,
+                                        "price": 800,
+                                        "alc": 38,
+                                        "age": 1,
+                                        "country": "Greece",
+                                        "availability": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Whiskey",
+                        "node": [
+                            {
+                                "name": "Grain",
+                                "node": [
+                                    {
+                                        "name": "Dewar's",
+                                        "volume": 0.5,
+                                        "price": 2100,
+                                        "alc": 40,
+                                        "age": 12,
+                                        "country": "Scotland",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Darby's",
+                                        "volume": 0.75,
+                                        "price": 3100,
+                                        "alc": 45,
+                                        "age": 4,
+                                        "country": "USA",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Hedonism",
+                                        "volume": 0.7,
+                                        "price": 9800,
+                                        "alc": 43,
+                                        "age": 8,
+                                        "country": "Scotland",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Fowler's",
+                                        "volume": 0.5,
+                                        "price": 500,
+                                        "alc": 40,
+                                        "age": 5,
+                                        "country": "Russia",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Malt",
+                                "node": [
+                                    {
+                                        "name": "Macallan",
+                                        "volume": 0.7,
+                                        "price": 4000,
+                                        "alc": 40,
+                                        "age": 12,
+                                        "country": "Scotland",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Laphroaig",
+                                        "volume": 0.5,
+                                        "price": 4500,
+                                        "alc": 40,
+                                        "age": 10,
+                                        "country": "Scotland",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Glenmorangie",
+                                        "volume": 0.7,
+                                        "price": 3200,
+                                        "alc": 40,
+                                        "age": 10,
+                                        "country": "Scotland",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Auchentoshan",
+                                        "volume": 0.7,
+                                        "price": 3000,
+                                        "alc": 40,
+                                        "age": 12,
+                                        "country": "Scotland",
+                                        "availability": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Light",
+                "node": [
+                    {
+                        "name": "Beer",
+                        "node": [
+                            {
+                                "name": "Dark",
+                                "node": [
+                                    {
+                                        "name": "Guinness",
+                                        "volume": 0.44,
+                                        "price": 170,
+                                        "alc": 4,
+                                        "age": 1,
+                                        "country": "Ireland",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Westmalle",
+                                        "volume": 0.33,
+                                        "price": 250,
+                                        "alc": 7,
+                                        "age": 1,
+                                        "country": "Belgium",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Weihenstephan",
+                                        "volume": 0.5,
+                                        "price": 190,
+                                        "alc": 5,
+                                        "age": 1,
+                                        "country": "Germany",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Leffe",
+                                        "volume": 0.75,
+                                        "price": 330,
+                                        "alc": 7,
+                                        "age": 1,
+                                        "country": "Belgium",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Light",
+                                "node": [
+                                    {
+                                        "name": "Engel",
+                                        "volume": 0.5,
+                                        "price": 270,
+                                        "alc": 5,
+                                        "age": 1,
+                                        "country": "Germany",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Westmalle",
+                                        "volume": 0.33,
+                                        "price": 320,
+                                        "alc": 10,
+                                        "age": 1,
+                                        "country": "Belgium",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Hofbrau",
+                                        "volume": 0.5,
+                                        "price": 210,
+                                        "alc": 5,
+                                        "age": 1,
+                                        "country": "Germany",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Paulaner",
+                                        "volume": 0.5,
+                                        "price": 130,
+                                        "alc": 5,
+                                        "age": 1,
+                                        "country": "Germany",
+                                        "availability": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wine",
+                        "node": [
+                            {
+                                "name": "Red",
+                                "node": [
+                                    {
+                                        "name": "Chateau Les Jouberts",
+                                        "volume": 0.75,
+                                        "price": 970,
+                                        "alc": 13,
+                                        "age": 4,
+                                        "country": "France",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Marques de Montejos",
+                                        "volume": 0.75,
+                                        "price": 1300,
+                                        "alc": 13,
+                                        "age": 5,
+                                        "country": "Spain",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Ramirez de la Piscina",
+                                        "volume": 0.75,
+                                        "price": 1400,
+                                        "alc": 15,
+                                        "age": 4,
+                                        "country": "Spain",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Familia Bastida",
+                                        "volume": 0.75,
+                                        "price": 900,
+                                        "alc": 14,
+                                        "age": 3,
+                                        "country": "Italy",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "White",
+                                "node": [
+                                    {
+                                        "name": "Rio Lilo",
+                                        "volume": 0.75,
+                                        "price": 880,
+                                        "alc": 12,
+                                        "age": 1,
+                                        "country": "Spain",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Sander",
+                                        "volume": 0.75,
+                                        "price": 1450,
+                                        "alc": 12,
+                                        "age": 1,
+                                        "country": "Germany",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Brancott Estate",
+                                        "volume": 0.75,
+                                        "price": 970,
+                                        "alc": 13,
+                                        "age": 2,
+                                        "country": "new Zealand",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Askaneli Brothers",
+                                        "volume": 0.75,
+                                        "price": 750,
+                                        "alc": 13,
+                                        "age": 3,
+                                        "country": "Georgia",
+                                        "availability": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vermouth",
+                        "node": [
+                            {
+                                "name": "Dark",
+                                "node": [
+                                    {
+                                        "name": "Casa Mariol",
+                                        "volume": 1,
+                                        "price": 2300,
+                                        "alc": 12,
+                                        "age": 1,
+                                        "country": "Spain",
+                                        "availability": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rose",
+                                "node": [
+                                    {
+                                        "name": "Martini",
+                                        "volume": 1,
+                                        "price": 1115,
+                                        "alc": 15,
+                                        "age": 1,
+                                        "country": "Italy",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Gancia",
+                                        "volume": 1,
+                                        "price": 800,
+                                        "alc": 16,
+                                        "age": 1,
+                                        "country": "Italy",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Cinzano",
+                                        "volume": 1,
+                                        "price": 980,
+                                        "alc": 14,
+                                        "age": 1,
+                                        "country": "Italy",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Sacred",
+                                        "volume": 0.75,
+                                        "price": 3550,
+                                        "alc": 18,
+                                        "age": 1,
+                                        "country": "UK",
+                                        "availability": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "White",
+                                "node": [
+                                    {
+                                        "name": "Martini",
+                                        "volume": 1,
+                                        "price": 1115,
+                                        "alc": 15,
+                                        "age": 1,
+                                        "country": "Italy",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Cinzano",
+                                        "volume": 1,
+                                        "price": 980,
+                                        "alc": 15,
+                                        "age": 1,
+                                        "country": "Italy",
+                                        "availability": false
+                                    },
+                                    {
+                                        "name": "Delasy",
+                                        "volume": 1,
+                                        "price": 570,
+                                        "alc": 15,
+                                        "age": 1,
+                                        "country": "Russia",
+                                        "availability": true
+                                    },
+                                    {
+                                        "name": "Gancia",
+                                        "volume": 1,
+                                        "price": 760,
+                                        "alc": 15,
+                                        "age": 1,
+                                        "country": "Italy",
+                                        "availability": false
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
